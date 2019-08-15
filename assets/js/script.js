@@ -35,7 +35,7 @@ $(document).ready(function() {
                     list += '<li>'+features[u]+'</li>';
                 }
 
-                html += '<div class="col-md-3 col-12 px-lg-0">'+
+                html += '<div class="col-md-3 col-12 px-lg-0 mb-2">'+
                             htmlCard+
                                 htmlRibon+
                                 '<ul class="list-group list-group-flush">'+
