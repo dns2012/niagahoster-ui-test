@@ -144,8 +144,8 @@
                     <h5>Diskon 40% + Domain dan SSL Gratis Untuk Anda</h5>
                 </div>
             </div>
-            <div class="row mt-5">
-                <div class="col-md-3 col-12 px-lg-0">
+            <div class="row mt-5" id="box-package">
+                <!--div class="col-md-3 col-12 px-lg-0">
                     <div class="card">
                         <ul class="list-group list-group-flush">
                             <li class="list-group-item"><h4>Bayi</h4></li>
@@ -241,7 +241,7 @@
                             </li>
                         </ul>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
@@ -652,8 +652,9 @@
         </div>
     </section>
 
-    <script type="text/javascript" src="assets/js/jquery-3.3.1.slim.min.js"></script>
+    <script type="text/javascript" src="assets/js/jquery-3.3.1.min.js"></script>
     <script type="text/javascript" src="assets/js/popper.min.js"></script>
     <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="assets/js/script.js"></script>
 </body>
 </html>
