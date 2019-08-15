@@ -51,7 +51,7 @@
             <div class="container">
                 <nav class="navbar navbar-expand-lg navbar-light p-0">
                     <a class="navbar-brand" href="#">
-                        <img src="./assets/images/logo.png" alt="">
+                        <img class="img-fluid" src="./assets/images/logo.png" alt="">
                     </a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
@@ -466,7 +466,7 @@
                     <button class="btn btn-outline-primary blue px-4">Pilih Hosting Anda</button>
                 </div>
                 <div class="col-md-6 col-12">
-                    <img src="./assets/images/Image support.png" alt="">
+                    <img class="img-fluid" src="./assets/images/Image support.png" alt="">
                 </div>
             </div>
         </div>
