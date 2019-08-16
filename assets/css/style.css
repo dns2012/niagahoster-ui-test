@@ -555,3 +555,18 @@ a:hover {
     text-decoration: none;
     color : inherit
 }
+
+.footer p.title.payment {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #8e8e8e;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.footer .box-subscribe span {
+    position: absolute;
+    top: 60px;
+    color :#787878;
+    font-size : 13px;
+}

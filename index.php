@@ -500,9 +500,13 @@
                                 <input type="email" class="form-control" placeholder="Email" required>
                                 <button class="btn btn-primary btn-sm">Berlangganan</button>
                         </form>
+                        <span>Dapatkan promo dan konten menarik dari penyedia hosting terbaik Anda.</span>
+                    </div>
+                    <div class="box-subscribe-subtitle">
+                        
                     </div>
                 </div>
-                <div class="col-md-3 col-12">
+                <div class="col-md-3 col-12 mt-lg-0 mt-5">
                     <p class="title">
                         &nbsp;
                     </p>
@@ -526,10 +530,11 @@
                 </div>
             </div>
             <div class="row mb-5">
-                <div class="col-md-12 col-12">
-                    <p class="title">
+                <div class="col-md-9 col-12">
+                    <p class="title payment">
                         PEMBAYARAN
                     </p>
+                    <img class="img-fluid mb-3" src="./assets/images/payment.png" alt="">
                     <span class="payment-subtitle">Aktifasi instan dengan e-Payment. Hosting dan domain langsung aktif!.</span>
                 </div>
             </div>
